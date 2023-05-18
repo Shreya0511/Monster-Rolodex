@@ -1,0 +1,44 @@
+.monstercard{
+    background-color : rgb(240, 254, 246);
+    margin-bottom : 1rem;
+    padding : 1rem;
+    border-radius : 1rem;
+    overflow : hidden;
+    cursor : pointer;
+    transform: translateZ(2);
+    transition : transform 0.25s ease-out;
+    
+
+
+
+}
+.content{
+    margin-top : 1.5rem;
+    font-size : 1.5rem;
+    display : flex;
+    justify-content: center;
+    color : rgb(6, 12, 77);
+    font-weight : bold;
+    padding-bottom : 2rem;
+    display : flex;
+    flex-direction : column;
+    justify-content : center;
+
+    
+}
+
+.monsterImage{
+    height : 100%;
+    width : 100%;
+}
+
+.monstersemail{
+    color : rgb(6, 12, 77);
+    color : gray;
+    font-size : 1.1rem;
+    font-weight : 500;
+    font-family : cursive;
+
+
+
+}

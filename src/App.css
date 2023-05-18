@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding : 0;
+  font-family :Verdana, Geneva, Tahoma, sans-serif;
+  text-align : center;
+  background: rgb(238,205,219);
+  background: linear-gradient(90deg, rgba(238,205,219,1) 27%, rgba(201,234,237,1) 100%);}
+
+  .heading {
+    margin : auto;
+    margin-bottom : 2rem;
+  }
+  .heading h1{
+    color : rgb(4, 80, 4);
+    font-size : 2.5rem;
+
+  }
